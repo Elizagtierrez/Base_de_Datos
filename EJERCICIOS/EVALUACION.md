@@ -10,12 +10,36 @@ Preguntas:
 1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?
 (valor 1.5)
 
+-Asegurar el buen funcionamiento de las BD
+
+-Retención de información de las BD
+
+-Evitar pérdida de datos
+
+-Solucionar incidencias y pérdidas de datos
+
+-Asegurar la seguridad de los datos
+
 2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
+
+Instalar, configurar y gestionar bases de datos.
+
+Dar soporte al equipo de desarrollo, seguridad informática y redes.
+
+Definir el esquema del diccionario de datos.
+
+Especificar restricciones de integridad para asegurar los datos.
+
+Garantizar la alta disponibilidad de la base de datos.
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
 
+ entrada, almacenamiento, procesamiento y salida de información.
+
 4. ¿Qué es un Sistema de Información? (valor 1.5)
+
+Conjunto de elementos orientados al tratamiento y administración de datos e información, organizados y listos para su posterior uso, generados para cubrir necesidad.
 
 ## Práctica 2.
 
@@ -53,3 +77,13 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+Editorial
+-Sucursal
+-Revistas
+-Periodista
+-Secciones
+-Ejemplar
+
+
+![image](https://user-images.githubusercontent.com/90996552/169089360-96b6ee6a-b2e9-43c8-842b-fb19ce6e03f7.png)
