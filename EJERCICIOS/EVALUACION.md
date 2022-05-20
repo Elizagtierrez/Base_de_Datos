@@ -85,5 +85,5 @@ Editorial
 -Secciones
 -Ejemplar
 
+![image](https://user-images.githubusercontent.com/90996552/169561502-540986e4-a73d-44a3-8e37-6119a188dbd4.png)
 
-![image](https://user-images.githubusercontent.com/90996552/169089360-96b6ee6a-b2e9-43c8-842b-fb19ce6e03f7.png)
