@@ -87,5 +87,5 @@ Editorial
 
 ![image](https://user-images.githubusercontent.com/90996552/169561502-540986e4-a73d-44a3-8e37-6119a188dbd4.png)
 
-[
-](https://www.db-fiddle.com/f/voE3awoNqPcBjm7yvuxwvD/0)
+
+https://www.db-fiddle.com/f/voE3awoNqPcBjm7yvuxwvD/0
