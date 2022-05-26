@@ -67,7 +67,8 @@ Tienda de informática
 
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 
-![image](https://user-images.githubusercontent.com/90996552/170527528-a67c3b4d-02c5-4379-99c6-55e2e1dc3f60.png)
+![image](https://user-images.githubusercontent.com/90996552/170527837-12424542-28cf-4d12-9aec-8cb4a94f1665.png)
+
 
 
 
