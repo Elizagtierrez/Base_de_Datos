@@ -18,6 +18,9 @@ Data warehouse es un sistema que agrega y combina información de diferentes fue
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
+![image](https://user-images.githubusercontent.com/90996552/171747714-74aa305d-d5f6-47e0-86b6-3232f5b48ff5.png)
+
+
 
 ## Práctica 7
 ### Funciones en SQL
