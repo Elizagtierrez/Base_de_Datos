@@ -30,12 +30,21 @@ Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/90996552/171750699-61f41827-cdf7-4483-890c-259724d75971.png)
+
+![image](https://user-images.githubusercontent.com/90996552/171750768-0f79b203-c01e-4fac-a3e5-9721547ef2c8.png)
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
+
+![image](https://user-images.githubusercontent.com/90996552/171751179-6896172f-5901-4493-ad74-8ea97899809b.png)
+
+![image](https://user-images.githubusercontent.com/90996552/171751295-34dd982a-c244-44be-995d-58d275d21d6d.png)
+
+
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
