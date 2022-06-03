@@ -105,6 +105,9 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
   
   o Si el nuevo valor de la nota que se quiere insertar es mayor que 10, se
   guarda como 10.
+  
+  ![image](https://user-images.githubusercontent.com/90996552/171910308-7bfcf7cc-730c-4edd-8ebf-4ded65f22b79.png)
+
 
 ● Trigger2 : trigger_check_nota_before_update
   o Se ejecuta sobre la tabla alumnos.
@@ -116,6 +119,9 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
   
   o Si el nuevo valor de la nota que se quiere actualizar es mayor que 10, se
   guarda como 10.
+  
+  ![image](https://user-images.githubusercontent.com/90996552/171910382-ebae8bb8-cfb6-48df-b900-f652e3589839.png)
+
   
 Una vez creados los triggers escribe varias sentencias de inserción y actualización
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
